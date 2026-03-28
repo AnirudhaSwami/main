@@ -1,0 +1,13 @@
+# Ignore all compiled Java files
+*.class
+
+# Ignore all archive files
+*.jar
+*.war
+
+# Ignore IDE specific folders (optional but recommended)
+.idea/
+.vscode/
+bin/
+
+*.class
